@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
  <br>
  </p> 
-https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+
 
 
 ## 🛠️ Languages and Tools
@@ -84,9 +84,10 @@ https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 <p align='center'>
  
 <a href="https://leetcode.com/shiv0427/" target="blank">
- <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="fsocietypiyush" /></a> &nbsp;&nbsp;
- <br>
-</p>
+ <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="fsocietypiyush" /></a>
+
+
+
 
 ## :trophy: Git profile Trophies
 <p align="center"> 
@@ -98,12 +99,12 @@ https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 ## 🔥 Github Stats
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sh1v-max&theme=algolia" alt="sh1v-max" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh1v-max&show_icons=true&locale=en" alt="sh1v-max" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh1v-max&show_icons=true&locale=en&theme=algolia" alt="sh1v-max" /></p>
 
 ## 📚 Most Used Languages 
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sh1v-max&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sh1v-max&theme=algolia&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 <p align='center'>
 <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
