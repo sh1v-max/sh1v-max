@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/shiv-shankar-singh-2070521ba/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
  
-<a href="https://www.reddit.com/user/ThenFlatworm2888" target="_blank">
+<a href="https://www.reddit.com/user/Recent_Cellist_8103/" target="_blank">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
  
  <a href="https://www.facebook.com/singhshiv01" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;
  
-  <a href="https://twitter.com/ShivSha04359520" target="_blank">
+  <a href="https://x.com/1amWaziR" target="_blank">
 <img src="https://img.shields.io/badge/ShivSha04-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>&nbsp;&nbsp;
  
   <a href="https://www.instagram.com/singh_shiv0/" target="_blank">
