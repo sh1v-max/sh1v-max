@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;
  
   <a href="https://x.com/1amWaziR" target="_blank">
-<img src="https://img.shields.io/badge/ShivSha04-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>&nbsp;&nbsp;
  
   <a href="https://www.instagram.com/singh_shiv0/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
