@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 ## 🔥 Github Stats
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sh1v-max"/></a>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sh1v-max&theme=algolia" alt="sh1v-max" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh1v-max&show_icons=true&locale=en" alt="sh1v-max" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sh1v-max&show_icons=true&locale=en&layout=compact" alt="sh1v-max" /></p>
 <br/> 
