@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 ## 🔥 Github Stats
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh1v-max&show_icons=true&locale=en&theme=algolia" alt="sh1v-max" /></p>
+
 
 ## 📚 Most Used Languages 
 <br>
