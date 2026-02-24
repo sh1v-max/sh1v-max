@@ -1,124 +1,193 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,50:FD1D1D,100:F77737&height=120&section=header&text=Shiv%20Shankar%20Singh&fontSize=35&fontColor=white&animation=fadeIn&fontAlignY=35"/>
+</div>
 
-<!--
-**sh1v-max/sh1v-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;React.js+%7C+JavaScript+Expert;Building+User-Centric+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)]()
-<h1 align="center">Hi 👋, I'm Shiv Shankar Singh</h1>
-<h2 align="center">I am learning how to CODE</h2>
-<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</div>
 
 
+## 👨‍💻 About Me
+
+🎓 **Computer Science Engineering Graduate** from Lovely Professional University  
+💼 **Frontend Developer** specializing in **React.js** and modern web technologies  
+🌟 Passionate about creating **responsive, user-focused applications** with clean, efficient code  
+📈 **Performance-driven developer** with proven track record of optimizing load times and user experience  
+🔍 Currently expanding expertise in **Full-Stack Development**, **Cloud Technologies**, and **DevOps**
+
+```
+const shiv = {
+    location: "India 🇮🇳",
+    education: "BTech in Computer Science Engineering",
+    currentFocus: ["React.js", "Node.js", "Cloud Technologies", "DSA"],
+    askMeAbout: ["React", "JavaScript", "Web Development", "UI/UX Design"],
+    technologies: {
+        frontend: ["React.js", "JavaScript ES6+", "HTML5", "CSS3", "Redux"],
+        styling: ["Tailwind CSS", "Responsive Design", "CSS Grid", "Flexbox"],
+        backend: ["Node.js", "REST APIs", "Firebase"],
+        tools: ["Git", "Webpack", "Babel", "npm", "Parcel"],
+        testing: ["React Testing Library", "Vitest", "Jest"],
+        cloud: ["AWS", "Firebase Hosting", "Netlify"]
+    },
+    currentGoal: "Building scalable, modern web applications"
+};
+```
 
 
-- 🌱 I’m currently learning **ReactJS, Data Structure, AWS, and DevOps**
-- 👯 I’m looking to collaborate on **Full Stack, Web Design Projects.**
-- 👨‍💻 All of my projects are available [here](https://github.com/sh1v-max)
-- 💬 Ask me anything about **react, web designing and automobile designing**
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : '𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜'
-- 📫 How to reach me:  **singhshiv0427@gmail.com**
-<br>
+## 🚀 Featured Projects
 
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=sh1v-max">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/sh1v-max?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<div align="center">
 
+### 🎬 [WatchFlix - Streaming Platform](https://your-watchflix-demo.com)
+**React.js • Redux Toolkit • TMDB API • OpenAI Integration**
+
+🔹 Movie streaming SPA with semantic search powered by AI  
+🔹 **25% API latency reduction** through React memoization  
+🔹 **30% faster load times** with performance optimization  
+🔹 **95% mobile compatibility** with responsive design  
 
 
+### 🍕 [BiteSwift - Food Delivery App](https://your-biteswift-demo.com)
+**React.js • Auth0 • React Testing Library • Responsive Design**
 
-## 🤝 Connect with Me
-<br>
-<p align='center'>
-<a href="mailto:singhshiv0427@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
- 
-<a href="https://www.linkedin.com/in/shiv-shankar-singh-2070521ba/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
- 
-<a href="https://www.reddit.com/user/Recent_Cellist_8103/" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
- 
- <a href="https://www.facebook.com/singhshiv01" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;
- 
-  <a href="https://x.com/1amWaziR" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp;
- 
-  <a href="https://www.instagram.com/singh_shiv0/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
- <br>
- </p> 
+🔹 Full-featured restaurant platform with cart management  
+🔹 **90%+ test coverage** using modern testing practices  
+🔹 **30% performance boost** with lazy loading & custom hooks  
+🔹 **25% reduced navigation time** through UX optimization  
 
 
+### 🌍 [Portfolio Website](https://your-portfolio-demo.com)
+**React.js • Tailwind CSS • EmailJS • Context API**
 
-## 🛠️ Languages and Tools
-<p align="center"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-</p>
-<br>
+🔹 Mobile-first personal portfolio with modern design  
+🔹 Real-time contact form without backend setup  
+🔹 Optimized performance and SEO-friendly structure  
+🔹 **100% responsive** across all device sizes  
+
+</div>
 
 
-## ➕ Practice Plateform  :
-<p align='center'>
- 
-<a href="https://leetcode.com/shiv0427/" target="blank">
- <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="fsocietypiyush" /></a>
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+### Testing & Deployment
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
 
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sh1v-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1v-max&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1v-max&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sh1v-max&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
 
-## :trophy: Git profile Trophies
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=sh1v-max&theme=algolia&margin-w=15&margin-h=5" alt="sh1v-max" /></a> 
-</p>
-<br/>
+## 📈 Contribution Graph
 
-## 🔥 Github Stats
-<br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sh1v-max&theme=algolia" alt="sh1v-max" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh1v-max&show_icons=true&locale=en&theme=algolia" alt="sh1v-max" /></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1v-max&bg_color=0D1117&color=79FF97&line=00E676&point=00BCD4&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 
-## 📚 Most Used Languages 
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sh1v-max&theme=algolia&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-<p align='center'>
-<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
-</p>
+## 🎯 Current Focus
 
-<hr>
+<div align="center">
+
+| 🎯 **Learning** | 🔧 **Building** | 🤝 **Collaborating** |
+|:---:|:---:|:---:|
+| Advanced React Patterns | Full-Stack Applications | Open Source Projects |
+| Cloud Architecture (AWS) | Performance Optimization | Developer Communities |
+| DevOps & CI/CD | Modern UI/UX Solutions | Technical Writing |
+| System Design | Scalable Web Apps | Knowledge Sharing |
+
+</div>
 
 
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+📜 **The Complete 2023 Web Development Bootcamp** - Udemy  
+📜 **Server-side JavaScript with Node.js** - Coursera  
+📜 **Data Structures and Algorithms** - GeeksforGeeks  
+📜 **Introduction to Programming Using Java** - Coding Ninjas  
+
+</div>
 
 
-## 📊 Github Activity
-<br/>
-   <!--<a href="https://github.com/sh1v-max"><img alt="Shiv's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sh1v-max&custom_title=Shiv's%20%20Graph&hide_border=true&theme=react-dark"/></a>-->
-   <a href="https://github.com/sh1v-max"><img alt="Shiv's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sh1v-max&bg_color=050f2c&color=ffffff&line=2dde98&point=00aeff&area=true&hide_border=true"/></a>
-  <br/>
-<br/>
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm always excited to connect with fellow developers, collaborate on interesting projects, or discuss the latest in web development!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhshiv0427@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-shankar-singh-2070521ba/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shiv0427/)
+
+### 📞 **Phone**: +91-7068900427
+### 💼 **Open for**: Frontend Developer roles, Freelance projects, Open source collaboration
+
+</div>
+
+
+## 💭 Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+
+<div align="center">
+  
+### 🌟 **"Building the web, one component at a time"** 🌟
+
+**Thanks for visiting my profile! Let's build something amazing together.** 🚀
+
+<img src="https://komarev.com/ghpvc/?username=sh1v-max&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,50:FD1D1D,100:F77737&height=120&section=footer"/>
+</div>
