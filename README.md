@@ -39,7 +39,7 @@ const shiv = {
 - ⚡ **Optimized** API calls using memoized custom hooks  
 - 📱 Fully **responsive mobile-first** UI built with Tailwind CSS
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF0000?style=for-the-badge&logo=firebase&logoColor=white)](https://netflixgpt-e671d.firebaseapp.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-E7101A?style=for-the-badge&logo=firebase&logoColor=white)](https://netflixgpt-e671d.firebaseapp.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sh1v-max/Netflix-GPT)
 
 
@@ -53,7 +53,7 @@ const shiv = {
 - 🪝 Clean architecture via **custom hooks** (`useRestaurantMenu`, `useOnlineStatus`)
 - ⚡ Lazy-loaded routes for faster initial load times
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://biteswift.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5200?style=for-the-badge&logo=vercel&logoColor=white)](https://biteswift.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sh1v-max/BiteSwift)
 
 
