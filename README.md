@@ -43,7 +43,7 @@ const shiv = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sh1v-max/Netflix-GPT)
 
 
-### 🍕 [BiteSwift — Food Delivery App](https://biteswift.vercel.app/)
+### 🍕 [BiteSwift — Food Delivery App](https://yourbiteswift.netlify.app/)
 **React.js • Redux Toolkit • Tailwind CSS • Vite**
 
 > High-fidelity Swiggy clone with dynamic restaurant listings, shimmer UI, and a fully-featured cart.
@@ -53,7 +53,7 @@ const shiv = {
 - 🪝 Clean architecture via **custom hooks** (`useRestaurantMenu`, `useOnlineStatus`)
 - ⚡ Lazy-loaded routes for faster initial load times
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5200?style=for-the-badge&logo=vercel&logoColor=white)](https://biteswift.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5200?style=for-the-badge&logo=vercel&logoColor=white)](https://yourbiteswift.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sh1v-max/BiteSwift)
 
 
