@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;React.js+%7C+JavaScript+Expert;Building+User-Centric+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;React.js+%7C+JavaScript+%7C+Node.js;Building+User-Centric+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -28,6 +28,19 @@ const shiv = {
 ---
 
 ## 🚀 Featured Projects
+
+### ⚙️ [TaskForge API — Production-Ready Task Management API](https://github.com/sh1v-max/TaskForge-API)
+**Node.js • Express.js • MongoDB • JWT • Zod • Swagger/OpenAPI**
+
+> Secure, fully-tested REST API for task management with authentication, validation, and complete documentation.
+
+- 🔐 **JWT authentication** with secure registration/login and ownership protection
+- ✅ **12/12 automated tests passing** with full API test coverage
+- 📄 Complete **Swagger/OpenAPI documentation** for all endpoints
+- 🛡️ Multi-layer validation (**Zod + Mongoose**), rate limiting, Helmet, and CORS hardening
+- 🔍 Full CRUD with filtering, sorting, and pagination
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sh1v-max/TaskForge-API)
 
 ### 🎬 [Netflix-GPT — AI-Powered Streaming Platform](https://netflixgpt-e671d.firebaseapp.com/)
 **React.js • Redux Toolkit • Firebase • TMDB API • OpenAI**
@@ -149,7 +162,7 @@ Open to frontend roles and high-impact product teams.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhshiv0427@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-shankar-singh-2070521ba/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/sh1v-max)
-[![Twitter](https://img.shields.io/badge/Twitter-249EF0?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Twitter](https://img.shields.io/badge/Twitter-249EF0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/1amWaziR)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shiv0427/)
 
 </div>
