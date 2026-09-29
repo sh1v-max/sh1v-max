@@ -171,8 +171,12 @@ const shiv = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1v-max&bg_color=0D1117&color=79FF97&line=00E676&point=00BCD4&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/00E676/sh1v-max" alt="Contribution Chart"/>
 </div>
+
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh1v-max&bg_color=0D1117&color=79FF97&line=00E676&point=00BCD4&area=true&hide_border=true" alt="Contribution Graph"/>
+</div> -->
 
 ---
 
