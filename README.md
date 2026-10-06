@@ -189,45 +189,62 @@ flowchart LR
 <table>
 <tr><td><b>Languages</b></td><td>
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" />
+<a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" /></a>
 
 </td></tr>
 <tr><td><b>Frontend</b></td><td>
 
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite&theme=dark" />
+<a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" /></a>
+<a href="https://redux-toolkit.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux&theme=dark" title="Redux Toolkit" alt="Redux Toolkit" /></a>
+<a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind CSS" /></a>
+<a href="https://vite.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite" alt="Vite" /></a>
 
 </td></tr>
 <tr><td><b>Backend &amp; Data</b></td><td>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase&theme=dark" />
+<a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" /></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express" alt="Express" /></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" /></a>
+<a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" alt="Firebase" /></a>
 
 </td></tr>
 <tr><td><b>DevOps &amp; Tools</b></td><td>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify,cloudflare,postman,vscode&theme=dark" />
+<a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" /></a>
+<a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" /></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" /></a>
+<a href="https://vercel.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" alt="Vercel" /></a>
+<a href="https://www.netlify.com" target="_blank"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" title="Netlify" alt="Netlify" /></a>
+<a href="https://www.cloudflare.com" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" title="Cloudflare" alt="Cloudflare" /></a>
+<a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" /></a>
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" alt="VS Code" /></a>
 
 </td></tr>
 <tr><td><b>AI &amp; Libraries</b></td><td>
 
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
-![SSE](https://img.shields.io/badge/SSE_Streaming-0899D7?style=flat-square)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Neon](https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=neon&logoColor=black)
+[![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white "Gemini API")](https://ai.google.dev)
+[![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white "pgvector")](https://github.com/pgvector/pgvector)
+[![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square "Retrieval-Augmented Generation")](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+[![SSE](https://img.shields.io/badge/SSE_Streaming-0899D7?style=flat-square "Server-Sent Events")](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
+[![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black "Drizzle ORM")](https://orm.drizzle.team)
+[![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white "Zod")](https://zod.dev)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white "JSON Web Tokens")](https://jwt.io)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black "Swagger / OpenAPI")](https://swagger.io)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black "Render")](https://render.com)
+[![Neon](https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=neon&logoColor=black "Neon Serverless Postgres")](https://neon.com)
 
 </td></tr>
 <tr><td><b>Learning now</b></td><td>
 
-![BullMQ](https://img.shields.io/badge/BullMQ_+_Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Agents](https://img.shields.io/badge/Agents_&_Tool_Calling-8E75B2?style=flat-square)
-![Vitest](https://img.shields.io/badge/Vitest_+_Supertest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+[![BullMQ](https://img.shields.io/badge/BullMQ_+_Redis-DC382D?style=flat-square&logo=redis&logoColor=white "BullMQ + Redis")](https://bullmq.io)
+[![Agents](https://img.shields.io/badge/Agents_&_Tool_Calling-8E75B2?style=flat-square "Agents & Tool Calling")](https://ai.google.dev/gemini-api/docs/function-calling)
+[![Vitest](https://img.shields.io/badge/Vitest_+_Supertest-6E9F18?style=flat-square&logo=vitest&logoColor=white "Vitest + Supertest")](https://vitest.dev)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white "Docker")](https://www.docker.com)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white "Next.js")](https://nextjs.org)
 
 </td></tr>
 </table>
